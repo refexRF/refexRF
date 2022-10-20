@@ -1,6 +1,7 @@
 ###                          Hi there👋
 ### I'm student is from Russia 🇷🇺
 ### I am interested in programming, pentest, reading books and I like to sleep :3
+<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div>
 
 <!--
 **refexRF/refexRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
