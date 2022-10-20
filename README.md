@@ -1,5 +1,5 @@
 ###                          Hi there👋
-### I'm student is from Russia
+### I'm student is from Russia 🇷🇺
 ### I am interested in programming, pentest, reading books and I like to sleep :3
 
 <!--
